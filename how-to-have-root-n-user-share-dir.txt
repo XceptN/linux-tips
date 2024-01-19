@@ -16,8 +16,8 @@ $ mkdir /home/oyuksel/dualmount
 
 >>> Update /etc/fstab for mounts with allows
 Add lines:
-/home/oyuksel/dualmount.img     /home/oyuksel/dualmount ext4    loop,user       0 0
-/home/oyuksel/dualmount.img     /root/dualmount ext4    loop,user       0 0
+/home/oyuksel/dualmount.img     /home/oyuksel/dualmount ext4    loop,user,noauto       0 0
+/home/oyuksel/dualmount.img     /root/dualmount ext4    loop,user,noauto       0 0
 
 >>> Mount as root
 # mount /root/dualmount
