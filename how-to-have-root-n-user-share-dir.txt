@@ -1,3 +1,6 @@
+>>> A way to provide root and regular user to share a full r/w 
+>>> directory without using symbolic links 
+
 >>> At home directory
 $ pwd
 /home/oyuksel
