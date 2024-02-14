@@ -1,0 +1,1 @@
+You can use "GNU parallel" to execute tasks using one or more CPUs/computers.
