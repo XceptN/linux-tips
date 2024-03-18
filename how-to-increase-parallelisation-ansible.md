@@ -1,0 +1,1 @@
+You can update `"forks"` setting in `ansible.cfg`, or use `-f` command-line argument to increase parallelism by `ansible-playbook` execution. _(default is 5)_
