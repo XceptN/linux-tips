@@ -1,1 +1,1 @@
-You can use `smem` tool to investigate comprehensive system and memory usage.
+You can use `smem` tool to investigate comprehensive system and process memory usage.
