@@ -1,0 +1,1 @@
+You can use `killall` command to terminate processes by name.

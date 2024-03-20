@@ -1,0 +1,1 @@
+You can use `pkill` command to terminate processes with name that matches a pattern. 

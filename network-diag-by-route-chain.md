@@ -1,0 +1,1 @@
+You can diagnose network connection based on routes by using `traceroute` or `mtr` commands.

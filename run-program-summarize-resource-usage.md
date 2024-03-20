@@ -1,0 +1,1 @@
+You can use `time` command to summarize time and resource usage of given program/command.

@@ -1,0 +1,1 @@
+You can use `apropos` command to search manual pages for keywords
