@@ -1,1 +1,1 @@
-You can diagnose network connection based on routes by using `traceroute` or `mtr` commands.
+You can diagnose network connection to a host based on routes by using `traceroute` or `mtr` commands.
