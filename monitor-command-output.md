@@ -1,0 +1,1 @@
+You can use `watch` command before any command to monitor output periodically.
