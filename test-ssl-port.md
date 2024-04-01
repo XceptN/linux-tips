@@ -1,0 +1,1 @@
+You can use `openssl s_client -connect <host>:<port>` to test an SSL port of a host.
