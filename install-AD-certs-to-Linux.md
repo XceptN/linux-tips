@@ -17,7 +17,7 @@ ldap_sasl_bind(SIMPLE): Can't contact LDAP server (-1)
 ```
 Checking the service with OpenSSL:
 ```
-openssl s_client -servername  bisoft-dc01.bisoft.net -connect bisoft-dc01.bisoft.net:636
+$ openssl s_client -servername  bisoft-dc01.bisoft.net -connect bisoft-dc01.bisoft.net:636
 ```
 ...
 ```
@@ -48,7 +48,13 @@ $ env LDAPTLS_REQCERT=never ldapsearch -x -S -LLL  -H ldaps://192.168.2.245  -D 
 At this point we need to get the trusted CA certificate from ActiveDirectory and import it on Linux:
 
 ## Export Trusted CA Certificate from Windows/ActiveDirectory
-1. Use MMC on Windows to export the certificate in DER format (*.cer) 
+Use MMC on Windows to export the certificate in DER format (*.cer)
+1. Run command, type MMC
+1. Browse to "Trusted Certificates"
+1. On right pane, right click on the desired certificate > Advanced Tasks > Export
+1. Select DER format
+1. Provide new file name (e.g. ADTrustedCACert)
+
 
 Maybe instead we can use `openssl -showcerts` to get the server certificate without dealing with Windows.  
 ```
