@@ -15,7 +15,7 @@ and
 $ ldapsearch -x -S -LLL -ZZ -H ldap://192.168.2.245  -D "CN=administrator,CN=Users,dc=bisoft,dc=net" -w '1234-Asd' -b "dc=bisoft,dc=net" "(&(objectCategory=User)(memberOf=cn=postgresl,cn=Users,dc=bisoft,dc=net))"
 ldap_sasl_bind(SIMPLE): Can't contact LDAP server (-1)
 ```
-Checking the service with OpenSSL:
+Checking the service with `openssl` command:
 ```
 $ openssl s_client -servername  bisoft-dc01.bisoft.net -connect bisoft-dc01.bisoft.net:636
 ```
@@ -47,8 +47,8 @@ $ env LDAPTLS_REQCERT=never ldapsearch -x -S -LLL  -H ldaps://192.168.2.245  -D 
 ```
 At this point we need to get the trusted CA certificate from ActiveDirectory and import it on Linux:
 
-## Export Trusted CA Certificate from Windows/ActiveDirectory
-Use MMC on Windows to export the certificate in DER format (*.cer)
+## Export Trusted CA Certificate from Windows / ActiveDirectory
+Use MMC tool on Windows to export the certificate in DER format (*.cer)
 1. Run command, type MMC
 1. Browse to "Trusted Certificates"
 1. On right pane, right click on the desired certificate > Advanced Tasks > Export
@@ -97,7 +97,7 @@ Q0E=
 ...
 ```
 ### Ubuntu
- 
+
 **THIS NEEDS TO BE TESTED IN FULL**
 
 The PEM certificate should have a *.crt name. Rename the file containing the certificate if necessary. 
