@@ -1,0 +1,1 @@
+You may use `tree` command to list files in a tree-like structure.
