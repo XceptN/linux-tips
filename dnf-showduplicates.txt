@@ -1,0 +1,1 @@
+"dnf --showduplicates list <package>" command can be used to list all available versions of a package in addition to the latest version.
