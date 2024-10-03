@@ -1,0 +1,1 @@
+"du" command is the way to check the storage use in a given directory. 
