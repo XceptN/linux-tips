@@ -1,0 +1,1 @@
+Another way to get sensitive information in a shell script is to use `read -s`.

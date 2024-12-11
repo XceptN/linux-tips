@@ -1,0 +1,1 @@
+If you want to capture both output and errors of a command run you can use `> outputfile 2>&1`.

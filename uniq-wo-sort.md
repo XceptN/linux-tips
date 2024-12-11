@@ -1,0 +1,1 @@
+While you can use `| sort -u` to get unique lines from an output, you may use `| awk '!x[$0]++'` for the same without sorting.

@@ -1,0 +1,1 @@
+In a shell script you can employ `stty -echo` and `stty echo` to hide sensitive input during user interaction.

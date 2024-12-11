@@ -1,0 +1,1 @@
+To skip or detect repeated lines, you can use `uniq`.

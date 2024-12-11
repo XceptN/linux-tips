@@ -1,0 +1,1 @@
+You can use `seq` to generate a sequence of numbers.

@@ -1,0 +1,1 @@
+You can use `read -p` to gather input with a prompt (usually in a shell script).

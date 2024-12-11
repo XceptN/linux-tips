@@ -1,0 +1,1 @@
+If you want to accurately report core memory usage of programs, you can use `ps_mem`
