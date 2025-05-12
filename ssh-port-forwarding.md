@@ -1,0 +1,1 @@
+SSH port forwarding (also called SSH tunneling) allows you to securely forward traffic through an SSH connection. `ssh -L` is the way to do it. e.g. `ssh -L 8000:192.168.19.27:3303 user@ssh_server` allows you to connect to port 8000 locally to connect 192.168.19.27 at port 3303 of ssh_server is allowed to connect there. 

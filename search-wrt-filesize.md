@@ -1,0 +1,1 @@
+`-size` option of `find` command helps to search for files based on their size. e.g. "find . -type f -size +4M -print" lists files larger that 4 mebibytes (MiB)

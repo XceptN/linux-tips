@@ -1,0 +1,1 @@
+Need timestamps with the `history` command output? Configure `HISTTIMEFORMAT` environment variable. e.g. `export HISTTIMEFORMAT="%F %T "`

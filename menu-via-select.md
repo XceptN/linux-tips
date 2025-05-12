@@ -1,0 +1,1 @@
+The Bash `select` command is a built-in loop construct that allows you to create simple menus for user interaction.

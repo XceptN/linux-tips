@@ -1,0 +1,1 @@
+`shuf` is a Linux command-line utility that generates random permutations. It takes input lines and outputs them in a random order.
