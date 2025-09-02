@@ -1,0 +1,1 @@
+If you need to shrink or extend a file, you may use `truncate` command.

@@ -1,0 +1,1 @@
+The `type` shell builtin helps whether a specific keyword is a binary, command, shell builtin, or a shell keyword.

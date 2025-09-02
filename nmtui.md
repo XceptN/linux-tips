@@ -1,0 +1,1 @@
+`nmtui` is the NetworkManager's terminal user interface (TUI) where you can perform network configuration over a terminal connection.

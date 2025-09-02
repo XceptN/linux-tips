@@ -1,0 +1,1 @@
+Want to delete sensitive content? Cannot rely on `rm`? Use `shred` to overwrite file content with random data repeatedly and optionally delete it.

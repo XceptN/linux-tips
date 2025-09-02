@@ -1,0 +1,1 @@
+`time` is a convenient command that shows the CPU time usage of the given command.

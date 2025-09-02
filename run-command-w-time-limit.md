@@ -1,0 +1,1 @@
+If you want to run a command with a time limit, you can use the `timeout` command. 

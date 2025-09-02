@@ -1,0 +1,1 @@
+`free` command gives summary information about system memory. Consider using `cat /proc/meminfo` to get extensive system memory usage information.

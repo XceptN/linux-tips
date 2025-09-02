@@ -1,0 +1,1 @@
+`atop` is an advanced `top` tool that give extensive information about system CPU cores and processes.

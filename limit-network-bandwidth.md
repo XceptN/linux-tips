@@ -1,0 +1,1 @@
+You can use the `tc` (traffic control) utility, to limit network bandwidth of your network interfaces.

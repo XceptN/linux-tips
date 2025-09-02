@@ -1,0 +1,1 @@
+Bash builtin `wait` can be used to wait for multiple background commands' completion in your shell script.
