@@ -1,1 +1,1 @@
-Want to get detailed information about a file or filesystem? You may use `stat` command.
+Want to get detailed information about a file, directory or filesystem? You may use `stat` command.
