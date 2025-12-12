@@ -1,0 +1,1 @@
+As root, when you use `su - <user>` to become a regular user without password, it would not do necessary systemd actions and may cause problems. Instead, use `machinectl shell <user>@`.
