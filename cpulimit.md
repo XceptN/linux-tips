@@ -1,0 +1,1 @@
+`cpulimit` is a very useful tool to limit the CPU and core usage of resource consuming processes.

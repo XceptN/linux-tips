@@ -1,0 +1,1 @@
+If you need to monitor multiple (log) files simultaneously, you can give multiple files (or a glob pattern) after `tail -f`

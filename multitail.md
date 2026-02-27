@@ -1,0 +1,1 @@
+`multitail` is a modern tool to follow multiple (log) files.

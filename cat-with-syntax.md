@@ -1,0 +1,1 @@
+You may use `batcat` (`bat`) instead of cat to view a program code file with syntax highlighting. 

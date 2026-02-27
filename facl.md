@@ -1,0 +1,1 @@
+Linux file access permissions are not limited to single user or group. You can control access control lists (ACLs) using `getfacl` and `setfacl`.

@@ -1,0 +1,1 @@
+Share your current directory quickly over HTTP... Run `python3 -m http.server` and others can connect through http://<your IP address>:8000
