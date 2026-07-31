@@ -1,0 +1,1 @@
+`podman ps` lists running containers with their IDs, names, images, status, and other metadata.

@@ -1,0 +1,1 @@
+`chcon` changes the SELinux security context (user, role, type, and level) of a file or directory.

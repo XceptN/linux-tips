@@ -1,0 +1,1 @@
+`podman rm` removes one or more stopped containers by ID or name.

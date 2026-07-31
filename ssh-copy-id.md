@@ -1,0 +1,1 @@
+`ssh-copy-id` copies your local SSH public key to a remote server's authorized_keys file to enable passwordless SSH authentication.

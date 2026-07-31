@@ -1,0 +1,1 @@
+`pidof` finds and returns the process ID(s) of a running process by its command name.

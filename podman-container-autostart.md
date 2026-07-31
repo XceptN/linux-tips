@@ -1,0 +1,1 @@
+Unlike docker, podman containers do not automatically start with system boot. You could generate systemd units, define quadlets or simply using podman-restart systemd service. 

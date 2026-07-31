@@ -1,0 +1,1 @@
+`buildah` builds OCI-compliant container images without requiring a Docker daemon, using commands that run directly on the host or within scripts for programmatic image construction.

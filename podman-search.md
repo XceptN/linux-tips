@@ -1,0 +1,1 @@
+`podman search` queries container registries for images matching a search term and displays results with their descriptions and ratings.

@@ -1,0 +1,1 @@
+Use UUID or LABEL entries in `/etc/fstab` to ensure seamless auto mounts of filesystems across reboots

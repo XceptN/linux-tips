@@ -1,0 +1,1 @@
+`podman pull` downloads a container image from a remote container registry to the local system.

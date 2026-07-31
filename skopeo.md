@@ -1,0 +1,1 @@
+`skopeo` is a CLI tool for inspecting, copying, and manipulating container images across registries without requiring a local container daemon.

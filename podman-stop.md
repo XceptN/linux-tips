@@ -1,0 +1,1 @@
+`podman stop` gracefully terminates running containers by sending SIGTERM to allow processes to shut down cleanly before forcefully killing them.

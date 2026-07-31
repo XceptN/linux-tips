@@ -1,0 +1,1 @@
+`podman run` creates and starts a new container from a specified image with the given configuration and command arguments.

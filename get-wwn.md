@@ -1,0 +1,1 @@
+You can use `udevadm info --query=all --name=/dev/yourdisk | grep ID_WWN` to get the World Wide Name (globally unique) of a specific disk.

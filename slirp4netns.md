@@ -1,0 +1,1 @@
+`slirp4netns` provides unprivileged containers with network access by running a user-mode TCP/IP stack that translates container traffic without requiring root privileges.

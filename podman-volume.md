@@ -1,0 +1,1 @@
+`podman volume` manages named volumes—persistent storage independent of container lifecycle that containers can mount and share.

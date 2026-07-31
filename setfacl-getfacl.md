@@ -1,0 +1,1 @@
+File access management in Linux is not limited to ownership and permissions. You can use `setfacl` and `getfacl` to manage access control lists (ACLs) for files.

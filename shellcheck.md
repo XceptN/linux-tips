@@ -1,0 +1,1 @@
+`shellcheck` is a tool to check syntax of shell scripts.

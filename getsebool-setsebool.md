@@ -1,0 +1,1 @@
+`getsebool` queries the current state of an SELinux boolean setting (on/off); `setsebool` changes an SELinux boolean to on or off.

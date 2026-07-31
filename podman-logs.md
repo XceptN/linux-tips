@@ -1,0 +1,1 @@
+`podman logs` displays the stdout and stderr output from a container by its ID or name.
